@@ -1,2 +1,2 @@
-# five_idiot
+# five_idiots
 OpenSource SW Class
